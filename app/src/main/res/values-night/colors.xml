@@ -1,0 +1,8 @@
+<resources>
+    <!-- Neo-Brutalism palette (DARK mode override) -->
+    <color name="neo_background">#121212</color>
+    <color name="neo_surface">#1E1E1E</color>
+    <color name="neo_border">#F5F5F5</color>
+    <color name="neo_text_primary">#F5F5F5</color>
+    <color name="neo_text_secondary">#CFCFCF</color>
+</resources>
