@@ -1,0 +1,10 @@
+<resources><style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+    <item name="android:fontFamily">sans-serif-black</item>
+    <item name="android:windowBackground">@color/neo_background</item>
+    <item name="colorPrimary">@color/neo_accent_yellow</item>
+    <item name="colorOnPrimary">@color/neo_text_on_accent</item>
+    <item name="android:colorAccent">@color/neo_accent_pink</item>
+    <item name="android:statusBarColor">@color/neo_background</item>
+    <item name="android:navigationBarColor">@color/neo_background</item>
+    <item name="android:windowLightStatusBar">true</item>
+</style></resources>
