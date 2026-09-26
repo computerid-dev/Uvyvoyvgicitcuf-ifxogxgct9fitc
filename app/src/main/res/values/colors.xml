@@ -1,0 +1,16 @@
+<resources>
+    <color name="ic_launcher_background">#FFFFFF</color>
+
+    <!-- Neo-Brutalism palette (LIGHT mode) -->
+    <color name="neo_background">#FDF6E3</color>
+    <color name="neo_surface">#FFFFFF</color>
+    <color name="neo_border">#000000</color>
+    <color name="neo_text_primary">#111111</color>
+    <color name="neo_text_secondary">#4A4A4A</color>
+    <color name="neo_text_on_accent">#111111</color>
+    <color name="neo_accent_yellow">#FFD93D</color>
+    <color name="neo_accent_pink">#FF6FA5</color>
+    <color name="neo_accent_cyan">#4ECDC4</color>
+    <color name="neo_accent_green">#8CE99A</color>
+    <color name="neo_accent_red">#FF6B6B</color>
+</resources>
